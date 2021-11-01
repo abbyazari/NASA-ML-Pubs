@@ -8,6 +8,6 @@ The figures here were first computed for [Azari et al., 2021](https://baas.aas.o
 
 Current Figure (Generated in Fall 2021)
 
-<img width="1500" alt="img1" src="./Figures/NASADivision_Share_ML_Mid2021Results.pdf"
+<img width="1500" alt="img1" src="./Figures/NASADivision_Share_ML_Mid2021Results.pdf">
 
 

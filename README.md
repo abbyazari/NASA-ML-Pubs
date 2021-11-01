@@ -10,4 +10,9 @@ Current Figure (Generated in Fall 2021)
 
 <img width="1500" alt="img1" src="./Figures/NASADivision_Share_ML_Mid2021Results.pdf">
 
-
+<object data="./Figures/NASADivision_Share_ML_Mid2021Results.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="./Figures/NASADivision_Share_ML_Mid2021Results.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./Figures/NASADivision_Share_ML_Mid2021Results.pdf">Download PDF</a>.   
+        </p>
+    </embed>
+</object>

@@ -10,4 +10,4 @@ Please reference this work if you are interested in the underlying conclusions o
 
 #### Current Figure (Generated in Winter 2022)
 
-<img width="1500" alt="img1" src="./Figures/NASADivision_Share_ML_End2022Results.pdf">
+<img width="1500" alt="img1" src="./Figures/CurrentFig.pdf">

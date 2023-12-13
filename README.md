@@ -8,6 +8,6 @@ The figures here were first computed for [Azari et al., 2021](https://baas.aas.o
 Please reference this work if you are interested in the underlying conclusions of these figures or using the figures associated in this repository.  
 
 
-#### Current Figure (Generated in Winter 2022)
+#### Current Figure (Generated in Winter 2023)
 
 <img width="1500" alt="img1" src="./Figures/CurrentFig.png">

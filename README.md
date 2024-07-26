@@ -9,7 +9,9 @@ If you use this product please reference the published paper and specify the ver
 
 ```
 @article{Azari2021,
-author = {Azari, A and Biersteker, J. B. and Dewey, R. M. and Doran, G. and Forsberg, E. J. and Harris, C. D. K. and Kerner, H. R. and Skinner, K. A. and Smith, A. W. and Amini, R. and Cambioni, S. and Da Poian, V. and Garton, T. M. and Himes, M. D. and Millholland, S. and Ruhunusiri, S.},
+author = {Azari, A and Biersteker, J. B. and Dewey, R. M. and Doran, G. and Forsberg, E. J. and
+Harris, C. D. K. and Kerner, H. R. and Skinner, K. A. and Smith, A. W. and Amini, R. and
+Cambioni, S. and Da Poian, V. and Garton, T. M. and Himes, M. D. and Millholland, S. and Ruhunusiri, S.},
 journal = {Bulletin of the AAS},
 number = {4},
 year = {2021},

@@ -1,7 +1,7 @@
 
 ### Machine Learning and Artificial Intelligence Publications in NASA Represented Scientific Fields
 
-[![DOI](https://zenodo.org/badge/423582609.svg)](https://zenodo.org/doi/10.5281/zenodo.13023913)
+[![DOI](https://zenodo.org/badge/423582609.svg)](https://zenodo.org/doi/10.5281/zenodo.14352451)
 
 This is a collection of code that creates a preliminary analysis of the prevalence of machine learning in NASA science related literature. The original data source can be found at the Scopus literature [database](https://www.scopus.com/home.uri).
 

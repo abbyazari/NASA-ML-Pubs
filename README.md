@@ -1,13 +1,18 @@
 
-### Machine Learning Publications in NASA Represented Fields
+### Machine Learning and Artificial Intelligence Publications in NASA Represented Scientific Fields
 
 [![DOI](https://zenodo.org/badge/423582609.svg)](https://zenodo.org/doi/10.5281/zenodo.13023913)
 
-This is a collection of scripts that analyze the prevalence of machine learning in NASA science related literature. The original data source can be found at the Scopus literature [database](https://www.scopus.com/home.uri).
+This is a collection of code that creates a preliminary analysis of the prevalence of machine learning in NASA science related literature. The original data source can be found at the Scopus literature [database](https://www.scopus.com/home.uri).
 
-The figure here was first computed for [Azari et al., 2021](https://baas.aas.org/pub/2021n4i128/release/1?readingCollection=7272e5bb) and has since been updated. As based on this figure, it is estimated that currently (in 2023) planetary science has seen approximately half as many applications of machine learning methods as in Earth science (7.5% vs 14.3% of publications).
+The figure here was first computed for [Azari et al., 2021](https://baas.aas.org/pub/2021n4i128/release/1?readingCollection=7272e5bb) and has since been updated. As based on this figure, it is estimated that currently (in 2024) planetary science has seen roughly half (60%) as many applications of machine learning methods as in Earth science (11.1% vs 18.1% of publications).
 
-If you use this figure please reference the published paper and specify the version of the respository used for example (Azari et al., 2021, v2023.0.2). Sample Bibtex is given below.
+The search terms regarding fields were updated in 2024 to include:
+- artificial intelligence as a search term in addition to machine learning; the exact search terms can be found in the data files
+- an approximate estimate of maximum uncertainties (via Poisson counting statistics)
+- expanded field definitions in recognition that scientists do not identify in papers as "planetary science" but are more likely to use "planetary geology" etc  
+
+If you use this figure please reference the published paper and specify the version of the repository used for generating the figure (Azari et al., 2021, v2024). Sample Bibtex of the paper is given below.
 
 ```
 @article{Azari2021,
@@ -24,6 +29,6 @@ doi = {10.3847/25c2cfeb.aa328727}
 }
 ```
 
-#### Current Figure (version 2023.0.2)
+#### Current Figure (version 2024)
 
-<img width="1500" alt="img1" src="./Figures/CurrentFig.png">
+<img width="1500" alt="img1" src="./Figures/NASADivision_Share_ML_End2024Results.png">

@@ -9,7 +9,7 @@ The figure here was first computed for [Azari et al., 2021](https://baas.aas.org
 
 The search terms regarding fields were updated in 2024 to include:
 - artificial intelligence as a search term in addition to machine learning; the exact search terms can be found in the data files
-- an approximate estimate of maximum uncertainties (via Poisson counting statistics)
+- an approximate estimate of uncertainties (via Poisson counting statistics)
 - expanded field definitions in recognition that scientists do not identify in papers as "planetary science" but are more likely to use "planetary geology" etc  
 
 If you use this figure please reference the published paper and specify the version of the repository used for generating the figure (Azari et al., 2021, v2024). Sample Bibtex of the paper is given below.
